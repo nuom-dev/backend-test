@@ -1,0 +1,27 @@
+/bookings_backend/node_modules
+/bookings_backend/.env
+/bookings_backend/src/load.js
+
+.DS_Store
+/bookings_frontend/node_modules
+/bookings_frontend/dist
+
+
+# local env files
+.env.local
+.env.*.local
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
